@@ -1,0 +1,10 @@
+# Portfolio delivery outcomes
+
+- [x] **Editorial hero and professional introduction:** Create a personal portfolio for Abdul Latif Hussein based on the supplied résumé and LinkedIn profile link. Include an editorial hero with a concise professional positioning statement and clear actions to explore work or make contact.
+- [x] **About and AI expertise:** Include an About section and prominently highlight Abdul Latif's deep knowledge of AI agent systems, AI automation, and work as an AI Generalist.
+- [x] **Portrait photos:** Keep the original user-supplied portrait in the About section. Place the latest AI-workspace portrait in a separate, professional hero-side frame—not beneath the first image—and remove the former second photo from the page layout. Include descriptive alternative text.
+- [x] **Skills:** Present résumé-supported technical capabilities and areas of expertise in a clear, scannable format, with AI agent systems, AI automation, AI Generalist, and agent workflows highlighted.
+- [x] **Portfolio cards and filtering:** Present project/work cards in polished visual form and organize them by category. Provide category filter chips that refine the visible cards. Hover interactions on each project card reveal a concise project description; descriptions are also visible on touch devices and keyboard focus.
+- [x] **Contact form:** Provide a visitor inquiry form with usable submission behavior and contact methods. Submitting validates the fields and opens a prefilled message in the visitor's email app.
+- [x] **Footer and profile links:** Include a polished footer with relevant profile and contact links, including LinkedIn.
+- [x] **Responsive interaction design:** Make the site responsive and mobile-friendly, provide mobile navigation, and use smooth scrolling between page sections.

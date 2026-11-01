@@ -1,0 +1,9 @@
+[build]
+  command = "pnpm run build"
+  publish = "dist"
+
+# Client-side routing: serve the SPA shell for unknown paths
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
